@@ -1,3 +1,3 @@
 test('getUsers() returns all users', () => {
-    expect(1+2).toBe(3);
+    expect(2+1).toBe(3);
 })
